@@ -1,1 +1,1 @@
-https://github.com/alura-cursos/portfolio-de-projetos.git
+https://github.com/lara/portfolio-de-projetos.git
